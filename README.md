@@ -6,3 +6,4 @@ added 2 lines
 
 branch 1
 
+branch 2
